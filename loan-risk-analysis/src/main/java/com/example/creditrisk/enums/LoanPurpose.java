@@ -1,0 +1,19 @@
+package com.example.creditrisk.enums;
+
+public enum LoanPurpose {
+    MORTGAGE,
+    CAR,
+    PERSONAL,
+    DEBT_CONSOLIDATION,
+    INVESTMENT,
+    WEDDING,
+    BUSINESS,
+    BUSINESS_EXPANSION,
+    STARTUP,
+    INVESTMENT_PROPERTY,
+    MEDICAL,
+    MEDICAL_EQUIPMENT,
+    HOME_IMPROVEMENT,
+    HOME_RENOVATION,
+    EDUCATION
+} 
